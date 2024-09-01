@@ -45,7 +45,7 @@ This architecture is well-suited for handling large volumes of diverse data type
 
 
 ## Source Data
-Here is the data used for this project ![source_data](code)
+Here is the data used for this project /data_source
 ### Sales Data: CSV Files
 The Sales Data dataset, sourced from a CSV file contains transaction records with key details including following columns:
 - Transaction_ID (int)
